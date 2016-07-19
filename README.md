@@ -5,9 +5,9 @@ Generating hex colours for a gradient between two colours and n steps.
 
 ```:so gradient.vim```
 
-# Input:
+# Input (Red to Green):
 
-```:call Gradient("#000000", "#ffffff", "16")```
+```:call Gradient("#ff0000", "#00ff00", "16")```
 
 # Output:
 
