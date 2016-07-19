@@ -15,4 +15,6 @@ Generating hex colours for a gradient between two colours and n steps.
 
 # Todo: 
 
-Get it to insert result in a nicer format into the current buffer.
+* Get it to insert result in a nicer format into the current buffer.
+* Get it to autoload
+* More plugin like features?
