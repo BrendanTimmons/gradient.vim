@@ -17,4 +17,4 @@ Open Vim.
 
 # Todo: 
 
-get it to insert result in a nicer format into the current buffer.
+Get it to insert result in a nicer format into the current buffer.
