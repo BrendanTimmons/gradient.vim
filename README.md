@@ -7,4 +7,4 @@ To use edit vimrc file with:
 
 open Vim and run:
 
-:call Gradient("#000000", "#ffffff", "16")
+```:call Gradient("#000000", "#ffffff", "16")```
